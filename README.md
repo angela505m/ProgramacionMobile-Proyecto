@@ -34,19 +34,7 @@ PetCare es una aplicación móvil desarrollada en Flutter para ayudar a los due�
 - Geolocator
 - Shared Preferences
 - Node.js (Backend)
-- PostgreSQL
-
-## Capturas
-
-Las capturas de la aplicación pueden agregarse en esta sección.
-
-```
-![Pantalla principal](capturas/home.png)
-
-![Mascotas](capturas/mascotas.png)
-
-![Recordatorios](capturas/recordatorios.png)
-```
+- PostgreSQ
 
 ## Autoras
 
